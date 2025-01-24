@@ -1,3 +1,14 @@
+# Chat-App
+
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: GAUTAM PATIDAR
+*INTERN ID*: CT08NXL
+*DOMAIN*: REACT JS
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+
+
 # This is a readME.md file that is made to introduce my project
 
 #Chat Application
